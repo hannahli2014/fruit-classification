@@ -2,6 +2,8 @@
 
 Group members: Hannah Li, Trisha Paul, Puja Subramaniam, Shelby Watson
 
+Blog post detailing our modeling process: https://medium.com/@hannah.li/fruit-classification-1f64d503d3e7
+
 ## Fruit Classification.ipynb
 - contains code to read in images
 - perform and visualize PCA and TSNE
