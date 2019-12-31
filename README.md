@@ -1,3 +1,8 @@
+remote_theme: jkellyer/Jasper2
+---
+layout: post
+title: Fruit Classification
+---
 # Fruit Classification
 
 Group members: Hannah Li, Trisha Paul, Puja Subramaniam, Shelby Watson
